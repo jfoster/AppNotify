@@ -1,0 +1,9 @@
+Package: me.etasoon.appnotify
+Name: AppNotify
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Recieve banner notifications on successful app downloads.
+Maintainer: Jacob Foster <jacobfoster@pm.me>
+Author: Jacob Foster <jacobfoster@pm.me>
+Section: Tweaks
